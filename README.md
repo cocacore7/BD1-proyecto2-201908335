@@ -124,14 +124,14 @@
 |----|----------------|---------|---------|--------|--------|----------|
 | 1  | Id_Voto        | Integer | x       |        |        | x        |
 | 2  | Analfabetos    | Integer |         |        |        | x        |
-| 2  | Alfabetos      | Integer |         |        |        | x        |
-| 2  | Primaria       | Integer |         |        |        | x        |
-| 2  | Nivel_Medio    | Integer |         |        |        | x        |
-| 2  | Universitarios | Integer |         |        |        | x        |
-| 2  | Id_Sexo        | Integer |         | x      |        | x        |
-| 3  | Id_Raza        | Integer |         | x      |        | x        |
-| 2  | Id_Zona        | Integer |         | x      |        | x        |
-| 3  | Id_Partido     | Integer |         | x      |        | x        |
+| 3  | Alfabetos      | Integer |         |        |        | x        |
+| 4  | Primaria       | Integer |         |        |        | x        |
+| 5  | Nivel_Medio    | Integer |         |        |        | x        |
+| 6  | Universitarios | Integer |         |        |        | x        |
+| 7  | Id_Sexo        | Integer |         | x      |        | x        |
+| 8  | Id_Raza        | Integer |         | x      |        | x        |
+| 9  | Id_Zona        | Integer |         | x      |        | x        |
+| 10 | Id_Partido     | Integer |         | x      |        | x        |
 
 ## Relaciones Entre Entidades
 
