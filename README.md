@@ -2,11 +2,11 @@
 
 ## Modelo Logico
 
-[img1]: https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Logico.png
+![Modelo Logico](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Logico.png)
 
 ## Modelo Relacional
 
-[img2]: https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Relacional.png
+![Modelo Relacional](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Relacional.png)
 
 ## Primera Forma De Normalizacion
 
