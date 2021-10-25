@@ -2,7 +2,7 @@
 
 ## Modelo Logico
 
-!(https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Logico.png)
+![https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Logico.png]
 
 ## Modelo Relacional
 
