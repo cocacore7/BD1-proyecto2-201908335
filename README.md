@@ -10,9 +10,39 @@
 
 ## Primera Forma De Normalizacion
 
+Se utilizo la primera forma de normalizacion para las siguientes tablas del modelo entidad relacion de modo que no existieran grupos de valores repetidos. Eliminando los grupos repetidos de las tablas individuales, creando una tabla independiente para cada conjunto de datos relacionados e identificandolos con una clave principal.
+
+![Entidad 1](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Primera_Forma/1F_1.PNG)
+
+![Entidad 2](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Primera_Forma/1F_2.PNG)
+
+![Entidad 3](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Primera_Forma/1F_3.PNG)
+
+![Entidad 4](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Primera_Forma/1F_4.PNG)
+
+![Entidad 5](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Primera_Forma/1F_5.PNG)
+
+![Entidad 6](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Primera_Forma/1F_6.PNG)
+
+![Entidad 7](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Primera_Forma/1F_7.PNG)
+
 ## Segunda Forma De Normalizacion
 
+Se utilizo la segunda forma de normalizacion para las siguientes tablas del modelo entidad relacion de modo que no existieran dependencias funcionales parciales. Creando tablas independientes para conjuntos de valores que se apliquen a varios registros y Relacionando estas tablas con una clave externa.
+
+![Entidad 1](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Segunda_Forma/2F_1.PNG)
+
+![Entidad 2](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Segunda_Forma/2F_2.PNG)
+
+![Entidad 3](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Segunda_Forma/2F_3.PNG)
+
+![Entidad 4](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Segunda_Forma/2F_4.PNG)
+
 ## Tercera Forma De Normalizacion
+
+Se utilizo la tercera forma de normalizacion para las siguientes tablas del modelo entidad relacion de modo que se verificara  que no existieran dependencias transitivas entre las columnas de una tabla. Se eliminaron los campos que no dependan de la clave. 
+
+![Entidad 1](https://github.com/cocacore7/bd1-proyecto2-201908335/blob/main/Tercera_Forma/3F_1.PNG)
 
 ## Entidades
 
